@@ -1,8 +1,6 @@
-# Dihaadi ⚒️ — Daily Wage Labour Platform
+# Dihaadi ⚒️  Daily Wage Labour Platform
 
 > Connecting India's 500 million daily wage workers with employers, eliminating middlemen, preventing wage theft, and building verifiable work reputations for informal workers.
-
-**Live Demo:** https://krishakohli001.github.io/pbl_project2427030094-dihaadi/
 
 ---
 
